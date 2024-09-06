@@ -1,4 +1,4 @@
 This is the first line.
 Second line is here.
-Third line!
-Fourth line family
+Another alternative third line.
+Feature branch fourth line.
